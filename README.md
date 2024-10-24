@@ -4,7 +4,6 @@
   
 # <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; Hi👋, I'm Zeel Boda &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 
-
 <h3 align="center">A passionate Machine Learning & Artificial Intelligence from India</h3>
 <img align="right" alt="Coding width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -13,15 +12,10 @@
 <p align="left"> <a href="https://twitter.com/bodazeel" target="blank"><img src="https://img.shields.io/twitter/follow/bodazeel?logo=twitter&style=for-the-badge" alt="bodazeel" /></a> </p>
 
 - 🔭 I’m currently working on [FRUITS-MINERLAS-DETECTION](https://github.com/ZeelBoda/FRUITS-MINERALS-DETECTION)
-
 - 🌱 I’m currently learning **.NET and Flask**
-
 - 👨‍💻 All of my projects are available at [https://github.com/ZeelBoda](https://github.com/ZeelBoda)
-
 - 💬 Ask me about **AI/ML and Python and also outer Knowledge**
-
 - 📫 How to reach me **zeelboda2106@gmail.com**
-
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
