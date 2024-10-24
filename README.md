@@ -11,12 +11,16 @@
 <p align="left"> <a href="https://twitter.com/bodazeel" target="blank"><img src="https://img.shields.io/twitter/follow/bodazeel?logo=twitter&style=for-the-badge" alt="bodazeel" /></a> </p>
 
 - 🔭 I’m currently working on [FRUITS-MINERLAS-DETECTION](https://github.com/ZeelBoda/FRUITS-MINERALS-DETECTION)
-- 🌱 I’m currently learning **.NET and Flask**
-- 👨‍💻 All of my projects are available at [https://github.com/ZeelBoda](https://github.com/ZeelBoda)
-- 💬 Ask me about **AI/ML and Python and also outer Knowledge**
-- 📫 How to reach me **zeelboda2106@gmail.com**
-- ⚡ Fun fact **I think I am funny**
 
+- 🌱 I’m currently learning **.NET and Flask**
+
+- 👨‍💻 All of my projects are available at [https://github.com/ZeelBoda](https://github.com/ZeelBoda)
+
+- 💬 Ask me about **AI/ML and Python and also outer Knowledge**
+
+- 📫 How to reach me **zeelboda2106@gmail.com**
+
+- ⚡ Fun fact **I think I am funny**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bodazeel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bodazeel" height="30" width="40" /></a>
