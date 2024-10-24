@@ -1,11 +1,8 @@
-[![MasterHead]<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 <br><br>
-<div align="center">
-
-# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; Hi👋, I'm Zeel Boda &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
-
+<h1 align="center">Hi👋, I'm Zeel Boda</h1>
 <h3 align="center">A passionate Machine Learning & Artificial Intelligence from India</h3>
-<img align="right" alt="Coding width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeelboda&label=Profile%20views&color=0e75b6&style=flat" alt="zeelboda" /> </p>
 
